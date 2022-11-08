@@ -1,0 +1,40 @@
+main{
+    height: 680px;
+    width: 980px;
+    background-color: deepskyblue;
+}
+header{
+    height: 150px;
+    background-color: brown;
+}
+
+
+nav{
+    height: 60px;
+    background-color: green;
+}
+
+article{
+    width: 580px;
+    height: 390px;
+    float: right;
+    background-color: blueviolet;
+
+}
+
+
+aside{
+    width: 400px;
+    height: 390px;
+    float: left;
+    background-color: cadetblue;
+    position: relative;
+}
+.clear{
+    clear: both;
+}
+
+footer{
+    height: 80px;
+    background-color: bisque;
+}
